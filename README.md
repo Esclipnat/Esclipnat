@@ -5,7 +5,7 @@
 <h1 align="center">Hola 👋, soy Cristian Garcia</h1>
 
 
-<h3 align="center"> Soy un argentino de 26 años de edad al que le gustan los videojuegos y la tecnologia. Actualmente me gustaria desempeñarme como full-stack web developer, auctualmente sigo aprendiendo para mejorar en ese campo aunque trato de aprender acerca de nuevos sistemas, tecnologias de punta y todo lo que pueda utilizar para desempeñarme como un buen desarrolador web. </h3>
+<h3 align="center"> Soy un argentino de 26 años de edad al que le gustan los videojuegos y la tecnologia. Actualmente me gustaria desempeñarme como full-stack web developer, actualmente sigo aprendiendo para mejorar en ese campo aunque trato de aprender acerca de nuevos sistemas, tecnologias de punta y todo lo que pueda utilizar para desempeñarme como un buen desarrolador web. </h3>
 
 <h3 align="center"> Tambien estoy aprendiendo de forma didacta lenguajes de programacion y sofware que tengan que ver con video juegos, como Godot y Unity </h3>
 
